@@ -755,10 +755,10 @@ upath@^2.0.1:
   resolved "https://registry.yarnpkg.com/upath/-/upath-2.0.1.tgz#50c73dea68d6f6b990f51d279ce6081665d61a8b"
   integrity sha512-1uEe95xksV1O0CYKXo8vQvN1JEbtJp7lb7C5U9HMsIp6IVwntkH/oNUzyVNQSd4S1sYk2FpSSW44FqMc8qee5w==
 
-v-pin-input@^0.0.19:
-  version "0.0.19"
-  resolved "https://registry.yarnpkg.com/v-pin-input/-/v-pin-input-0.0.19.tgz#0baac2de61aab375260eaa197a9e23395cf7b1d4"
-  integrity sha512-QO5dNtVVAR2aTdMzziIWWzDP3wFKeeMI8d8mQ6+kQFl2/mR1+PzhKxk+qF/bkTCVZThkJIHQzTn0mVS9qE8Exg==
+v-pin-input@^0.0.22:
+  version "0.0.22"
+  resolved "https://registry.yarnpkg.com/v-pin-input/-/v-pin-input-0.0.22.tgz#9688ffa29fdbce48619144f978049b2ffe8dc54e"
+  integrity sha512-vI1sFKEyTJ0T0Oa/ijtjefXQqm1ZCHBWZcDGXvEPKmEXJ6f3WGBAbZzMcNE/5dQg7t07UVJJPH8dd7/mkGYsPQ==
 
 vite@^2.8.0:
   version "2.8.6"
